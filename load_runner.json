@@ -1,0 +1,7 @@
+{
+    "global_admin_creds":["administrator", "*"],
+    "global_user_creds":["user", "*"],
+    "num_samples":null,
+    "skip_samples":0,
+    "data_logger_default": "info"
+}
